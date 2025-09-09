@@ -1,0 +1,6 @@
+{
+    "algorithm": "ppo",
+    "timestamp": "20250727_165444",
+    "model_path": "models\\ppo_model_20250727_165444.pt",
+    "is_best": true
+}

@@ -1,0 +1,32 @@
+{
+    "mean_reward": 5.552420252309346,
+    "std_reward": 0.6876607793433602,
+    "mean_energy": 1.6780482669232593,
+    "mean_violations": 556.575,
+    "scenarios": {
+        "summer": {
+            "mean_reward": 5.317669389059995,
+            "std_reward": 0.7260605580593457,
+            "mean_energy": 1.675096571177241,
+            "mean_violations": 550.9
+        },
+        "winter": {
+            "mean_reward": 5.648306755901105,
+            "std_reward": 0.689274919386495,
+            "mean_energy": 1.6692689322382184,
+            "mean_violations": 560.6
+        },
+        "weekday": {
+            "mean_reward": 5.606303919916362,
+            "std_reward": 0.6704583997573945,
+            "mean_energy": 1.681905613405836,
+            "mean_violations": 552.5
+        },
+        "weekend": {
+            "mean_reward": 5.637400944359927,
+            "std_reward": 0.6648492401702059,
+            "mean_energy": 1.685921950871742,
+            "mean_violations": 562.3
+        }
+    }
+}

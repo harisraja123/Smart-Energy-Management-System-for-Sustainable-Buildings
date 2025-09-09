@@ -1,0 +1,80 @@
+{
+    "dqn": {
+        "summer": {
+            "mean_reward": 5.317669389059995,
+            "std_reward": 0.7260605580593457,
+            "mean_energy": 1.675096571177241,
+            "mean_violations": 550.9
+        },
+        "winter": {
+            "mean_reward": 5.648306755901105,
+            "std_reward": 0.689274919386495,
+            "mean_energy": 1.6692689322382184,
+            "mean_violations": 560.6
+        },
+        "weekday": {
+            "mean_reward": 5.606303919916362,
+            "std_reward": 0.6704583997573945,
+            "mean_energy": 1.681905613405836,
+            "mean_violations": 552.5
+        },
+        "weekend": {
+            "mean_reward": 5.637400944359927,
+            "std_reward": 0.6648492401702059,
+            "mean_energy": 1.685921950871742,
+            "mean_violations": 562.3
+        }
+    },
+    "ppo": {
+        "summer": {
+            "mean_reward": 6.76713174189473,
+            "std_reward": 0.6508717625678627,
+            "mean_energy": 3.0685956072277527,
+            "mean_violations": 564.6
+        },
+        "winter": {
+            "mean_reward": 6.660481148870287,
+            "std_reward": 0.5716957899894862,
+            "mean_energy": 3.067199542019103,
+            "mean_violations": 555.5
+        },
+        "weekday": {
+            "mean_reward": 6.81406108699723,
+            "std_reward": 0.603735934283617,
+            "mean_energy": 2.9874564957088925,
+            "mean_violations": 568.2
+        },
+        "weekend": {
+            "mean_reward": 6.564295937284411,
+            "std_reward": 0.634837160171926,
+            "mean_energy": 2.966729406330321,
+            "mean_violations": 547.3
+        }
+    },
+    "a3c": {
+        "summer": {
+            "mean_reward": 6.421120909892093,
+            "std_reward": 0.6706833738429234,
+            "mean_energy": 2.8210645662943548,
+            "mean_violations": 550.5
+        },
+        "winter": {
+            "mean_reward": 6.524245661070213,
+            "std_reward": 0.5647891490569981,
+            "mean_energy": 2.756175416688127,
+            "mean_violations": 546.7
+        },
+        "weekday": {
+            "mean_reward": 6.532237571611627,
+            "std_reward": 0.49600026666540836,
+            "mean_energy": 2.815999787012739,
+            "mean_violations": 547.8
+        },
+        "weekend": {
+            "mean_reward": 6.559189543179784,
+            "std_reward": 0.6327657203048577,
+            "mean_energy": 2.819837454477949,
+            "mean_violations": 554.3
+        }
+    }
+}

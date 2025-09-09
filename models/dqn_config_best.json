@@ -1,0 +1,7 @@
+{
+    "algorithm": "dqn",
+    "timestamp": "20250812_010339",
+    "model_path": "models\\dqn_model_best.pt",
+    "is_best": true,
+    "original_model_path": "models\\dqn_model_20250812_010339.pt"
+}

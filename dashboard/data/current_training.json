@@ -1,0 +1,16 @@
+{
+    "episode": 56,
+    "total_episodes": 5000,
+    "reward": 4.202686041943546,
+    "std_reward": 0,
+    "mean_energy": 0.0,
+    "mean_violations": 0,
+    "scenario": "N/A",
+    "is_training": false,
+    "is_testing": false,
+    "algorithm": "DQN",
+    "active": false,
+    "training_start_time": "2025-08-12T01:03:32.732947",
+    "scenarios": {},
+    "completed": true
+}

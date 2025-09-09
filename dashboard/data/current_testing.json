@@ -1,0 +1,16 @@
+{
+    "episode": 0,
+    "total_episodes": 0,
+    "reward": 0.0,
+    "std_reward": 0.0,
+    "mean_energy": 0.0,
+    "mean_violations": 0.0,
+    "scenario": "N/A",
+    "is_training": false,
+    "is_testing": true,
+    "algorithm": "N/A",
+    "active": false,
+    "testing_start_time": null,
+    "scenarios": {},
+    "completed": false
+}

@@ -1,0 +1,8 @@
+{
+    "algorithm": "a3c",
+    "timestamp": "20250727_155423",
+    "model_path": "models\\a3c_model_20250727_155423.pt",
+    "total_steps": 24560,
+    "best_reward": 1.0950150782661412,
+    "is_best": true
+}
